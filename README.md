@@ -6,7 +6,7 @@ I'm a motivated engineer
 
 
 
-### 📫 How to reach me:
+### 📫 How to reach me:/Where to find me:
 
 
 
