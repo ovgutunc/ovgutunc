@@ -1,6 +1,6 @@
 ### Hi, I'm Övgü 👋
 
-
+<!-- About section -->
 
 
 <!-- code gif-->
