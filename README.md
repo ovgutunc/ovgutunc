@@ -1,22 +1,15 @@
 ## Hi, I'm Övgü 👋
-
+I'm a tech enthusiast who loves to learn about new things. 
 I'm a motivated engineer.ı'm interested in macjine learning
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- ⚡️ macihne larning
-- 🎓 learning
-- 👨‍💻reading
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--🎯 Skills:
+- 👀 I enjoy building machine learning algorithms to drive business decisions.
+- 🎓 I’m currently learning Customer Analytics which is so much fun.
+- ⚡️ I love reading upcoming and trending technologies and always look forward to implement the ideas to the projects.
+- 🎯 I believe Data Visualization is a key to convey the results of analysis in a creative way.
+- 👨‍💻 But most of all, I am a passionate coder who loves open-source software!
 
 
 #### 📫 Where to find me:
