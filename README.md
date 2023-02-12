@@ -1,6 +1,6 @@
 ## Hi, I'm Övgü 👋
-I'm a tech enthusiast who loves to learn about new things. 
-I'm a motivated engineer.ı'm interested in macjine learning
+I'm a dynamic and self-motivated engineer who loves to learn about new things in Data Science.
+
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="400" height="250" />
