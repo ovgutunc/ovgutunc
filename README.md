@@ -3,7 +3,7 @@ I'm a tech enthusiast who loves to learn about new things.
 I'm a motivated engineer.ı'm interested in macjine learning
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./code.gif" width="400" height="250" />
 
 - 👀 I enjoy building machine learning algorithms to drive business decisions.
 - 🎓 I’m currently learning Customer Analytics which is so much fun.
