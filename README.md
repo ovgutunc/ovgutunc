@@ -4,7 +4,8 @@ I'm a motivated engineer
 - ⚡️ macihne larning
 - 🎓 learning
 - 👨‍💻reading
-- 🎯
+
+#### 🎯 Skills:
 
 
 #### 📫 Where to find me:
