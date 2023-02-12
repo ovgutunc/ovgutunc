@@ -1,10 +1,9 @@
-### Hi, I'm Övgü 👋
+### Hi there 👋
 
-<!-- About section -->
+I'm a motivated engineer
 
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<!-- Profile Views -->
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
