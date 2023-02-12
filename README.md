@@ -1,10 +1,13 @@
 ## Hi, I'm Övgü 👋
 
-I'm a motivated engineer
+I'm a motivated engineer.ı'm interested in macjine learning
+
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 - ⚡️ macihne larning
 - 🎓 learning
 - 👨‍💻reading
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,12 +16,7 @@ I'm a motivated engineer
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-
-
-#### 🎯 Skills:
+-🎯 Skills:
 
 
 #### 📫 Where to find me:
@@ -30,22 +28,6 @@ I'm a motivated engineer
 
 
 
-
-
-<!-- About section -->
-
-
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-
-<!--
-**ovgutunc/ovgutunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
 
 
 
