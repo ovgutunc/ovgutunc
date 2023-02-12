@@ -1,11 +1,14 @@
-### Hi there 👋
+### **Hi, I'm Övgü** 👋
 
 I'm a motivated engineer
+⚡️macihne larning
+🎓learning
+
+<!-- About section -->
 
 
-<!-- Profile Views -->
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 
 <!--
@@ -22,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
