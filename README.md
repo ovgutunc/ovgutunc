@@ -1,4 +1,4 @@
-## **Hi, I'm Övgü** 👋
+## Hi, I'm Övgü 👋
 
 I'm a motivated engineer
 - ⚡️ macihne larning
