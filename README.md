@@ -1,8 +1,8 @@
 ### **Hi, I'm Övgü** 👋
 
 I'm a motivated engineer
-⚡️macihne larning
-🎓learning
+- ⚡️macihne larning
+- 🎓learning
 
 <!-- About section -->
 
