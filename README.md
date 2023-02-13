@@ -1,7 +1,7 @@
 ## Hi, I'm Övgü 👋
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="300" height="200" />
+<img align="right" alt="GIF" src="./code.gif" width="350" height="230" />
 
 I'm a dynamic and self-motivated engineer who loves to learn about new things in Data Science.
 
@@ -12,7 +12,7 @@ I'm a dynamic and self-motivated engineer who loves to learn about new things in
 
 
 
-#### 🎯Skills:
+#### 🎯 Skills:
 **Statistical Methods:** Descriptive Statistics, Hypothesis Testing (A/B Test), Regression, Correlation, ANOVA, Chi-Square Test <br>
 
 **Data Analytics:** Data Manipulation, Data Wrangling, Data Modelling(Star and Snowflake Schema), Data Warehousing (Fact and Dimension Tables), Data Visualization<br>
