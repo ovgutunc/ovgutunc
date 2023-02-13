@@ -11,12 +11,7 @@ I'm a dynamic and self-motivated engineer who loves to learn about new things in
 - 🎯 I believe Data Visualization is a key to convey the results of analysis in a creative way.
 - 👨‍💻 But most of all, I am a passionate coder who loves open-source software!
 
-
-
-
 &emsp;
-
-
 
 #### 🎯Skills:
 **Statistical Methods:** Descriptive Statistics, Hypothesis Testing (A/B Test), Regression, Correlation, ANOVA, Chi-Square Test <br>
@@ -39,7 +34,6 @@ I'm a dynamic and self-motivated engineer who loves to learn about new things in
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </p>
-
 
 #### 📫 Where to find me:
   
