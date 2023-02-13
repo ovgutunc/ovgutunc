@@ -11,7 +11,6 @@ I'm a dynamic and self-motivated engineer who loves to learn about new things in
 - 💪 I believe "Data Visualization is a key to convey the results of analysis in a creative way".
 
 
-&emsp;
 
 #### 🎯Skills:
 **Statistical Methods:** Descriptive Statistics, Hypothesis Testing (A/B Test), Regression, Correlation, ANOVA, Chi-Square Test <br>
