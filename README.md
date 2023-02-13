@@ -11,6 +11,8 @@ I'm a dynamic and self-motivated engineer who loves to learn about new things in
 - 🎯 I believe Data Visualization is a key to convey the results of analysis in a creative way.
 - 👨‍💻 But most of all, I am a passionate coder who loves open-source software!
 
+#### ❤ Technologies I love:
+
 
 #### 📫 Where to find me:
   
