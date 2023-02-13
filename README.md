@@ -12,6 +12,12 @@ I'm a dynamic and self-motivated engineer who loves to learn about new things in
 - 👨‍💻 But most of all, I am a passionate coder who loves open-source software!
 
 
+
+
+
+
+
+
 #### 🎯Skills:
 **Statistical Methods:** Descriptive Statistics, Hypothesis Testing (A/B Test), Regression, Correlation, ANOVA, Chi-Square Test <br>
 **Data Analytics:** Data Manipulation, Data Wrangling, Data Modelling(Star and Snowflake Schema), Data Warehousing (Fact and Dimension Tables), Data Visualization<br>
