@@ -1,7 +1,7 @@
 ## Hi, I'm Övgü 👋
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="350" height="230" />
+<img align="right" alt="GIF" src="./code.gif" width="320" height="230" />
 
 I'm a dynamic and self-motivated engineer who loves to learn about new things in Data Science.
 
