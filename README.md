@@ -5,11 +5,11 @@ I'm a dynamic and self-motivated engineer who loves to learn about new things in
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="400" height="250" />
 
-- 👀 I enjoy building machine learning algorithms to drive business decisions.
 - 🎓 I’m currently learning Customer Analytics which is so much fun.
-- ⚡️ I love reading upcoming and trending technologies and always look forward to implement the ideas to the projects.
+- 👀 I enjoy building machine learning algorithms to drive business decisions.
+- ⚡️ I love reading articles about upcoming and trending technologies, and statistical methods in data analytics.
 - 🎯 I believe Data Visualization is a key to convey the results of analysis in a creative way.
-- 👨‍💻 But most of all, I am a passionate coder who loves open-source software!
+- 👨‍💻 But most of all, 
 
 &emsp;
 
