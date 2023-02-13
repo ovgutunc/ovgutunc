@@ -1,9 +1,9 @@
 ## Hi, I'm Övgü 👋
-I'm a dynamic and self-motivated engineer who loves to learn about new things in Data Science.
-
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="300" height="200" />
+
+I'm a dynamic and self-motivated engineer who loves to learn about new things in Data Science.
 
 - 🎓 I’m currently learning Customer Analytics which is so much fun.
 - 👀 I enjoy building machine learning algorithms to drive business decisions.
