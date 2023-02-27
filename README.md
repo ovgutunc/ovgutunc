@@ -6,7 +6,7 @@
 I'm a dynamic and self-motivated engineer who loves to learn about new things in Data Science.
 
 - 🎓 I’m currently learning Customer Analytics which is so much fun.
-- 👀 I enjoy building machine learning algorithms to drive business decisions.
+- 👀 I enjoy building machine learning algorithms and creating compelling visuals to drive business decisions.
 - ⚡️ I love reading articles about upcoming and trending technologies, and statistical methods in data analytics.
 - 💪 "There are risks and costs to action. But they are far less than the long range risks of comfortable inaction."
 
