@@ -3,7 +3,7 @@
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="320" height="230" />
 
-I'm a dynamic and self-motivated engineer who loves to learn about new things in Data Science.
+I'm a dynamic and self-motivated Data Analyst who loves to learn about new things in Data Analytics.
 
 - 🎓 I’m currently learning Customer Analytics which is so much fun.
 - 👀 I enjoy building machine learning algorithms and creating compelling visuals to drive business decisions.
