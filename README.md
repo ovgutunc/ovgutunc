@@ -10,7 +10,7 @@ I'm a dynamic and self-motivated Data Analyst who loves to learn about new thing
 - ⚡️ I love reading articles about upcoming and trending technologies, and statistical methods in data analytics.
 - 💪 "There are risks and costs to action. But they are far less than the long-range risks of comfortable inaction."
 
-#### 🎯 Skills:
+#### 🎯 Technical Skills:
 
 **Data Analytics:** Data Manipulation, Data Wrangling, Data Modelling(Star and Snowflake Schema), Data Transformation, Data Acquisition, Data Aggregation, Data Warehousing (Fact and Dimension Tables), Data Visualization<be>
 
