@@ -10,9 +10,6 @@ I'm a dynamic and self-motivated Data Analyst who loves to learn about new thing
 - ⚡️ I love reading articles about upcoming and trending technologies, and statistical methods in data analytics.
 - 💪 "There are risks and costs to action. But they are far less than the long-range risks of comfortable inaction."
 
-Technical Skills & Programming Languages : 
-SQL | Tableau | Looker | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Nltk) | MySQL | AWS Redshift 
-
 #### 🎯 Skills:
 **Statistical Methods:** Descriptive Statistics, Hypothesis Testing, A/B Testing, Regression, Correlation, ANOVA, Chi-Square Test <br>
 
