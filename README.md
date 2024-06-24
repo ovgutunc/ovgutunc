@@ -8,20 +8,22 @@ I'm a dynamic and self-motivated Data Analyst who loves to learn about new thing
 - 🎓 I’m currently learning Customer Analytics which is so much fun.
 - 👀 I enjoy building machine learning algorithms and creating compelling visuals to drive business decisions.
 - ⚡️ I love reading articles about upcoming and trending technologies, and statistical methods in data analytics.
-- 💪 "There are risks and costs to action. But they are far less than the long range risks of comfortable inaction."
+- 💪 "There are risks and costs to action. But they are far less than the long-range risks of comfortable inaction."
 
-
+Technical Skills & Programming Languages : 
+SQL | Tableau | Looker | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Nltk) | MySQL | AWS Redshift 
 
 #### 🎯 Skills:
-**Statistical Methods:** Descriptive Statistics, Hypothesis Testing (A/B Test), Regression, Correlation, ANOVA, Chi-Square Test <br>
+**Statistical Methods:** Descriptive Statistics, Hypothesis Testing, A/B Testing, Regression, Correlation, ANOVA, Chi-Square Test <br>
 
-**Data Analytics:** Data Manipulation, Data Wrangling, Data Modelling(Star and Snowflake Schema), Data Warehousing (Fact and Dimension Tables), Data Visualization<br>
+**Data Analytics:** Data Manipulation, Data Wrangling, Data Modelling(Star and Snowflake Schema), Data Transformation, Data Acquisition, Data Aggregation, Data Warehousing (Fact and Dimension Tables), Data Visualization<br>
 
 #### ❤ Technologies I love:
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
