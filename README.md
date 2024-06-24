@@ -11,9 +11,10 @@ I'm a dynamic and self-motivated Data Analyst who loves to learn about new thing
 - 💪 "There are risks and costs to action. But they are far less than the long-range risks of comfortable inaction."
 
 #### 🎯 Skills:
-**Statistical Methods:** Descriptive Statistics, Hypothesis Testing, A/B Testing, Regression, Correlation, ANOVA, Chi-Square Test <br>
 
-**Data Analytics:** Data Manipulation, Data Wrangling, Data Modelling(Star and Snowflake Schema), Data Transformation, Data Acquisition, Data Aggregation, Data Warehousing (Fact and Dimension Tables), Data Visualization<br>
+**Data Analytics:** Data Manipulation, Data Wrangling, Data Modelling(Star and Snowflake Schema), Data Transformation, Data Acquisition, Data Aggregation, Data Warehousing (Fact and Dimension Tables), Data Visualization<be>
+
+**Statistical Methods:** Descriptive Statistics, Hypothesis Testing, A/B Testing, Regression, Correlation, ANOVA, Chi-Square Test <be>
 
 #### ❤ Technologies I love:
 
